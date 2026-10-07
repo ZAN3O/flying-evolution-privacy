@@ -1,75 +1,63 @@
 # Politique de confidentialité — Flying Evolution
 
-Dernière mise à jour : 30 septembre 2026
+Dernière mise à jour : 7 octobre 2026
 
-Flying Evolution est un jeu mobile édité par Stonefish Studios. Cette politique décrit les données traitées lorsque vous utilisez l'application.
+Flying Evolution est un jeu mobile édité par Stonefish Studios. Cette politique décrit les données traitées par les versions du jeu intégrant la publicité et la mesure d'audience.
 
 *English version below.*
 
 ## Données traitées
 
-Le jeu ne demande pas la création d'un compte et ne collecte pas votre nom, adresse e-mail, position, contacts, photos, caméra, microphone ou contenu personnel. Il ne demande aucune autorisation sensible sur votre appareil.
+Le jeu ne demande pas de compte. La progression, les achats en monnaie virtuelle et les réglages sont enregistrés sur votre appareil.
 
-La progression (pièces, niveaux d'amélioration, mondes et personnages débloqués, records) et les réglages (volume, vibration) sont enregistrés uniquement sur votre appareil, pour que vous puissiez reprendre votre partie.
+Flying Evolution utilise Google Mobile Ads (AdMob) pour les bannières, les annonces interstitielles et les vidéos récompensées, ainsi que Google Analytics for Firebase pour mesurer l'utilisation du jeu. Ces services peuvent traiter l'adresse IP, les identifiants de l'appareil ou de publicité, les informations techniques sur l'appareil, les ouvertures et sessions, les interactions dans le jeu et avec les annonces. Nous utilisons ces informations pour diffuser et mesurer les annonces, limiter la fraude, comprendre l'utilisation du jeu et améliorer son fonctionnement. Google peut traiter ces données selon sa [politique de confidentialité](https://policies.google.com/privacy).
 
-Cette version de Flying Evolution ne contient ni publicité, ni achat intégré, ni outil d'analyse ou de mesure d'audience. Elle fonctionne hors ligne et n'envoie aucune donnée de jeu à Stonefish Studios ni à des tiers.
+Flying Evolution ne collecte pas votre nom, adresse e-mail, contacts, photos, position précise, caméra, microphone ni contenu personnel. Il ne propose pas de compte utilisateur ni d'achats intégrés dans cette version.
 
-## Partage des données
+## Consentement et choix
 
-Stonefish Studios ne vend, ne loue et ne partage aucune donnée personnelle. Aucune donnée n'est transmise à un tiers par l'application.
+Lorsque la réglementation le demande, un formulaire de consentement Google est présenté avant les premières demandes d'annonces. Sur iOS, le système peut aussi vous demander l'autorisation de suivi. Vous pouvez refuser ; les annonces peuvent alors être moins personnalisées. Les réglages publicitaires de votre appareil permettent de limiter ou de réinitialiser l'identifiant publicitaire.
 
-Google Play, qui distribue l'application, peut fournir à Stonefish Studios des statistiques globales et anonymes (nombre d'installations, rapports de plantage) selon ses propres règles, décrites dans la [Politique de confidentialité de Google](https://policies.google.com/privacy).
+## Partage et conservation
 
-## Conservation et sécurité
-
-Stonefish Studios ne possède pas de serveur applicatif pour les données de jeu. Les données de progression restent sur l'appareil jusqu'à ce que vous utilisiez l'option « Restart Game » du jeu, que vous effaciez les données de l'application ou que vous la désinstalliez.
+Stonefish Studios ne vend pas vos données. Les données nécessaires à la publicité et à la mesure d'audience sont transmises à Google et, pour les annonces, à ses partenaires publicitaires. Google conserve les données qu'il traite conformément à ses règles. La progression enregistrée sur l'appareil y reste jusqu'à l'effacement des données du jeu ou sa désinstallation.
 
 ## Enfants
 
-Flying Evolution ne collecte aucune donnée personnelle, y compris celles des enfants.
+Le jeu n'est pas destiné aux enfants de moins de l'âge numérique minimum applicable dans leur pays. Nous ne cherchons pas à collecter sciemment leurs données personnelles.
 
-## Nous contacter
+## Contact et changements
 
-Pour toute question relative à cette politique ou aux données traitées par Flying Evolution, contactez **ssteuerpro@gmail.com**.
-
-## Modifications
-
-Cette politique pourra être modifiée en cas d'évolution du jeu ou de ses services, par exemple si une version future ajoute de la publicité ou des achats intégrés. Elle sera alors mise à jour avant la publication de cette version, et la date de mise à jour sera modifiée sur cette page.
+Pour toute question : **ssteuerpro@gmail.com**. Nous mettrons cette politique à jour si les services ou les traitements du jeu évoluent.
 
 ---
 
 # Privacy Policy — Flying Evolution
 
-Last updated: September 30, 2026
+Last updated: October 7, 2026
 
-Flying Evolution is a mobile game published by Stonefish Studios. This policy describes the data handled when you use the app.
+Flying Evolution is a mobile game published by Stonefish Studios. This policy covers versions of the game that include advertising and audience measurement.
 
 ## Data we handle
 
-The game does not require an account and does not collect your name, email address, location, contacts, photos, camera, microphone or personal content. It does not request any sensitive permission on your device.
+The game does not require an account. Progress, virtual currency transactions, and settings are saved on your device.
 
-Your progress (coins, upgrade levels, unlocked worlds and flyers, best distances) and your settings (volume, vibration) are saved only on your device, so that you can continue playing.
+Flying Evolution uses Google Mobile Ads (AdMob) for banners, interstitials and rewarded videos, and Google Analytics for Firebase to measure game usage. These services may process IP addresses, device or advertising identifiers, device information, app opens and sessions, gameplay interactions and ad interactions. We use this information to serve and measure ads, prevent fraud, understand game usage and improve the game. Google may process it under its [Privacy Policy](https://policies.google.com/privacy).
 
-This version of Flying Evolution contains no ads, no in-app purchases and no analytics or audience measurement tools. It works offline and does not send any game data to Stonefish Studios or to third parties.
+Flying Evolution does not collect your name, email address, contacts, photos, precise location, camera, microphone or personal content. This version has no user accounts or in-app purchases.
 
-## Data sharing
+## Consent and choices
 
-Stonefish Studios does not sell, rent or share any personal data. The app does not transmit any data to third parties.
+Where required, a Google consent form appears before the first ad requests. On iOS, the system may also ask for tracking permission. You can decline; ads may then be less personalized. Your device's advertising settings let you limit or reset its advertising identifier.
 
-Google Play, which distributes the app, may provide Stonefish Studios with aggregated, anonymous statistics (number of installs, crash reports) under its own rules, described in the [Google Privacy Policy](https://policies.google.com/privacy).
+## Sharing and retention
 
-## Retention and security
-
-Stonefish Studios does not run a server for game data. Your progress stays on your device until you use the in-game “Restart Game” option, clear the app's data or uninstall the app.
+Stonefish Studios does not sell your data. Data needed for ads and measurement is sent to Google and, for ads, its advertising partners. Google retains the data it processes under its own policies. Progress saved on your device remains there until you clear the game's data or uninstall it.
 
 ## Children
 
-Flying Evolution does not collect any personal data, including children's data.
+The game is not intended for children below the applicable age of digital consent in their country. We do not knowingly seek to collect their personal data.
 
-## Contact us
+## Contact and changes
 
-For any question about this policy or the data handled by Flying Evolution, contact **ssteuerpro@gmail.com**.
-
-## Changes
-
-This policy may change if the game or its services evolve, for example if a future version adds ads or in-app purchases. It will then be updated before that version is released, and the date above will change.
+Questions: **ssteuerpro@gmail.com**. We will update this policy if the game's services or data practices change.
